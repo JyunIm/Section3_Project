@@ -38,3 +38,4 @@ for i in range(3):
     #     nav_list.append(a)
     #     time.sleep(1)
     time.sleep(2)
+
